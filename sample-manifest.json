@@ -1,12 +1,12 @@
 {
-  "export_job_id": "02a0b04d-84f3-40af-be9d-625fa7af2a9d",
+  "export_job_id": "2edf6e8d-d597-49fd-a96e-875504574349",
   "id_short": 677652,
-  "published_at": "2026-04-21T19:41:18Z",
+  "published_at": "2026-04-28T19:47:00Z",
   "repo_name": "all-restaurants-in-albany-new-york-us-sample-677652",
   "sample_asset_name": "beamstation_677652_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/677652/beamstation_677652_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_records": 61,
-  "sample_sha256": "446aff527f214c950f88350d943af23bcd9f3b8403a0ac1730abaefd8f3b26f9",
-  "sample_size_bytes": 217647,
-  "total_records": 616
+  "sample_records": 67,
+  "sample_sha256": "f01da7b1e2e183d8dc3ded36941003b93fe3a0edb0fd6c857c792861f000bf0a",
+  "sample_size_bytes": 206607,
+  "total_records": 673
 }
